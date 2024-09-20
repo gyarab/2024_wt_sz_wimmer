@@ -2,6 +2,6 @@
 Repozitář pro předmět [Webové technologie](https://www.gyarab.cz/predmety/WT).
 
 ## Obsah
-- [referat.md](https://github.com/gyarab/2024_wt_sz_wimmer/blob/main/referat.md)
+- [referat.md](https://github.com/gyarab/2024_wt_sz_wimmer/blob/main/referat.md) -> Referát o významné osobnosti PC historie.
 
-možná někdy něco přibude...
+Možná někdy něco přibude...
