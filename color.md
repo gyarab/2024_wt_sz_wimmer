@@ -27,9 +27,9 @@ Součastné logo divize Radeon Graphics [Grafické karty -> herní i profesioná
 
 ---
 ## Převažující barvy
-- Černá + Bílá [všechno]
-- Často červená + Orandžová [U Ryzen & Radeon, někdy je i u AMD loga]
-- Někdy i Modrá [U Epyc]
+- Hlavně: Černá + Bílá
+- Často: Červená + Orandžová [U Ryzen & Radeon, někdy je i u AMD loga]
+- Někdy: Modrá [U Epyc]
 
 ---
 ## Psychologie uvedených barev
@@ -76,3 +76,6 @@ signalizuje svým zákazníkům, že mohou společnosti důvěřovat a spolehnou
 
 ---
 Odkaz na článek o [Psychologii barev](https://blog.hubspot.com/the-hustle/psychology-of-color).
+
+---
+Pozn.: Tento rozbor je vztažen pouze k aktuálnímu logu [aktuálním logům] dané společnosti, logo [loga] společnosti se samozřejmně v průběhu let měnily i barevně.
