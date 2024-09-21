@@ -75,7 +75,6 @@ Součastné logo divize Radeon Graphics [Grafické karty -> herní i profesioná
 signalizuje svým zákazníkům, že mohou společnosti důvěřovat a spolehnout se na ni při důležitých rozhodnutích.
 
 ---
-Odkaz na článek o [Psychologii barev](https://blog.hubspot.com/the-hustle/psychology-of-color).
-
----
 Pozn.: Tento rozbor je vztažen pouze k aktuálnímu logu [aktuálním logům] dané společnosti, logo [loga] společnosti se samozřejmně v průběhu let měnily i barevně.
+
+Odkaz na článek o [Psychologii barev](https://blog.hubspot.com/the-hustle/psychology-of-color).
