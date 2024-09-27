@@ -1,5 +1,7 @@
-# AMD [Advanced Micro Devices, Inc.]
+# AMD 
+[Advanced Micro Devices, Inc.]
 
+---
 ![AMD_Logo](https://logowik.com/content/uploads/images/amd7686.jpg)
 
 Současné logo AMD ; Zdroj: [Logowik](https://logowik.com/amd-vector-logo-1-5500.html)
