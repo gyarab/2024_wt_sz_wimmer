@@ -1,59 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pexeso Game</title>
-    <style>
-        /* Simple styles for the game */
-        #game-board 
-        {
-            display: grid;
-            grid-template-columns: repeat(4, 100px); /* Adjust grid size (4 columns) */
-            gap: 10px;
-            margin: 20px auto;
-            max-width: 420px;
-        }
-        .card 
-        {
-            width: 100px;
-            height: 100px;
-            background: lightgray;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-size: 24px;
-            font-weight: bold;
-            cursor: pointer;
-            border-radius: 10px;
-            user-select: none;
-        }
-        .card.matched 
-        {
-            background: lightgreen; /* Change color for matched cards */
-            pointer-events: none; /* Disable clicking on matched cards */
-        }
-        #score 
-        {
-            font-size: 18px;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        #reset-button 
-        {
-            display: block;
-            margin: 0 auto;
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-        }
-    </style>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Pexeso Game</title>
+	<style>
+		/* Simple styles for the game */
+		#game-board 
+		{
+			display: grid;
+			grid-template-columns: repeat(4, 100px); /* Adjust grid size (4 columns) */
+			gap: 10px;
+			margin: 20px auto;
+			max-width: 420px;
+		}
+		.card 
+		{
+			width: 100px;
+			height: 100px;
+			background: lightgray;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			font-size: 24px;
+			font-weight: bold;
+			cursor: pointer;
+			border-radius: 10px;
+			user-select: none;
+		}
+		.card.matched 
+		{
+			background: lightgreen; /* Change color for matched cards */
+			pointer-events: none; /* Disable clicking on matched cards */
+		}
+		#score 
+		{
+			font-size: 18px;
+			text-align: center;
+			margin-bottom: 20px;
+		}
+		#reset-button 
+		{
+			display: block;
+			margin: 0 auto;
+			padding: 10px 20px;
+			font-size: 16px;
+			cursor: pointer;
+		}
+	</style>
 </head>
 <body>
-    <div id="score">Score: 0</div>
-    <div id="game-board"></div>
-    <button id="reset-button">Reset Game</button>
+	<div id="score">Score: 0</div>
+	<div id="game-board"></div>
+	<button id="reset-button">Reset Game</button>
 
-    <script src="pexeso.js"></script>
+	<script src="pexeso.js"></script>
 </body>
 </html>
